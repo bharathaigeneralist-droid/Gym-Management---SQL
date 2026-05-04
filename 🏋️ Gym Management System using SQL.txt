@@ -1,0 +1,38 @@
+🏋️ Gym Management System using SQL & Streamlit
+📌 Project Overview
+
+A lightweight, interactive Gym Management Application built using Streamlit and SQLite, designed to efficiently manage gym members, records, and operations through a user-friendly interface. This project demonstrates full-stack data handling—from database design to front-end interaction.
+
+🚀 Key Features
+🔐 User Authentication System (Login functionality with database storage)
+🗂️ SQLite Database Integration for persistent data management
+📊 Interactive Dashboard using Streamlit
+👥 Member Management (Add, view, and manage gym users)
+⚡ Real-time Data Handling with seamless UI updates
+🧩 Modular and scalable code structure
+💡 Benefits
+Simplifies gym record management without complex software
+Eliminates manual tracking with automated database storage
+Provides a clean, interactive UI for better user experience
+Suitable for small to medium fitness centers
+🌟 Novelty
+Combines database operations + web UI in a single lightweight application
+No need for heavy frameworks—built using minimal yet powerful tools
+Demonstrates practical implementation of CRUD operations in a real-world use case
+🧠 Technical Skills Demonstrated
+Python Development (Core logic & backend handling)
+SQL / SQLite (Database design, queries, and optimization)
+Streamlit Framework (Frontend UI development)
+Data Handling with Pandas
+Application Structuring & Modular Coding
+🛠️ Tech Stack
+Python
+SQLite
+Streamlit
+Pandas
+📂 How to Run
+pip install streamlit pandas
+streamlit run app.py
+📌 Conclusion
+
+This project showcases the ability to build a complete data-driven application, integrating backend database logic with an interactive frontend—highlighting strong problem-solving and practical development skills.
